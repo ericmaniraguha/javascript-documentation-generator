@@ -27,3 +27,10 @@ npm run jdocs
 5.  String
 6.  Type checking
 7.  Number
+8.  Array
+9.  Object
+10. Template
+11. Function
+12. Custom type
+13. Class
+14. modules
