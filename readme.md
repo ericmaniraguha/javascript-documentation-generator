@@ -17,3 +17,13 @@ yarn add --save-dev jdocs
 npm run jdocs
 
 # I will be running the index.html and then run as open as with liveserver
+
+# Tasks:
+
+1.  Install JSDoc
+2.  Create config file
+3.  Run command
+4.  Run JSDoc in browser
+5.  String
+6.  Type checking
+7.  Number
