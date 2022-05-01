@@ -1,6 +1,13 @@
 // @ts-check
 
-const {caltotal} = require('./petcounter')
+const { caltotal } = require('./petcounter');
+
+/**
+ *
+ * @file index.js is the homepage for this application
+ * @Author Mr. Eric
+ * @see <a href="http://erictch.com">Programming is life</a>
+ */
 
 /**
  * Pet Name
@@ -115,7 +122,6 @@ class Owner {
 const ownerOne = new Owner({ name: 'Parker', age: 12 });
 ownerOne.printOwner();
 
-
 // call our petcount imported
 
-console.log(caltotal(19,5))
+console.log(caltotal(19, 5));
